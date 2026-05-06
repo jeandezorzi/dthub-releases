@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "versao_minima": "1.0.24",
   "mensagem": "",
   "usuarios_bloqueados": []
