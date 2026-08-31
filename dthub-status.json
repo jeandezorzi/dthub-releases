@@ -2,5 +2,12 @@
   "enabled": true,
   "versao_minima": "1.0.0",
   "mensagem": "",
-  "usuarios_bloqueados": []
+  "usuarios_bloqueados": [],
+  "migracao": {
+    "ligada": true,
+    "so_usuarios": [
+      "Jean Dezorzi"
+    ],
+    "_nota": "piloto: so quem esta em so_usuarios migra pro modelo sem executavel proprio. Para parar TODO MUNDO na proxima verificacao, troque por \"migracao\": false — sem publicar release nenhuma."
+  }
 }
