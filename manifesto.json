@@ -1,20 +1,20 @@
 {
-  "versao": "1.1.199",
-  "gerado": "2026-10-15 10:25",
+  "versao": "1.1.200",
+  "gerado": "2026-10-15 10:37",
   "partes": {
     "runtime": {
       "versao": "rt-d4ffeab6b831",
-      "zip": "DTHub-completo-1.1.199.zip",
-      "sha256": "de44c615196086015f247af2ae9603bfb895d0bf812818008a63be36f1a7e4dc",
-      "bytes": 254179257,
-      "url": "https://github.com/jeandezorzi/dthub-releases/releases/download/v1.1.199/DTHub-completo-1.1.199.zip"
+      "zip": "DTHub-completo-1.1.200.zip",
+      "sha256": "fb5e13003c7862a8c71e646d52e77ad5b832e12f243d8cf4a0003002e1d147fc",
+      "bytes": 254181475,
+      "url": "https://github.com/jeandezorzi/dthub-releases/releases/download/v1.1.200/DTHub-completo-1.1.200.zip"
     },
     "app": {
-      "versao": "1.1.199",
-      "zip": "DTHub-app-1.1.199.zip",
-      "sha256": "3d12111295f857e5dd31386971025bac789c8d3ed91c656eccc45da3b5f69046",
-      "bytes": 30377636,
-      "url": "https://github.com/jeandezorzi/dthub-releases/releases/download/v1.1.199/DTHub-app-1.1.199.zip"
+      "versao": "1.1.200",
+      "zip": "DTHub-app-1.1.200.zip",
+      "sha256": "cb8016c877d017dafd82a7bafd991ffa190a06ed360af159089f98e9c34a6b3c",
+      "bytes": 30379854,
+      "url": "https://github.com/jeandezorzi/dthub-releases/releases/download/v1.1.200/DTHub-app-1.1.200.zip"
     },
     "libs": {
       "versao": "libs-4b90688cb4b7",
