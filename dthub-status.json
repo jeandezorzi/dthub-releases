@@ -13,8 +13,8 @@
     "ligar": true
   },
   "base_projetos": {
-    "sombra": true,
-    "carga_por": [
+    "fonte": "api",
+    "espelho_por": [
       "jean.dezorzi@sp.senai.br"
     ]
   }
