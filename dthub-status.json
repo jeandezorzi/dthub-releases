@@ -11,5 +11,11 @@
   "barra_titulo": {
     "enabled": false,
     "ligar": true
+  },
+  "base_projetos": {
+    "sombra": true,
+    "carga_por": [
+      "jean.dezorzi@sp.senai.br"
+    ]
   }
 }
